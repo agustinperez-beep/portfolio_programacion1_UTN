@@ -1,6 +1,6 @@
 # 🚀 Portfolio Universitario - UTN FRGP
 
-Este repositorio contiene mis ejercicios prácticos desarrollados durante la carrera, los mismos fueron realizados en Codeblocks en lenguaje c++.
+Este repositorio contiene mis ejercicios prácticos desarrollados durante la carrera, los mismos fueron realizados en Codeblocks con lenguaje c++.
 
 ---
 
