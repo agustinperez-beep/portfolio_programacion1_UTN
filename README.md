@@ -17,10 +17,11 @@ Este repositorio contiene mis ejercicios prácticos desarrollados durante la car
 * [Guía 1 - Ejercicio 7](./UTN/Guia_1/Guia1_Eje7)
 * [Guía 1 - Ejercicio 8](./UTN/Guia_1/Guia1_Eje8)
 * [Guía 1 - Ejercicio 9](./UTN/Guia_1/Guia1_Eje9)
+* [Guía 1 - Ejercicio 12](./UTN/Guia_1/Guia1_Eje12)
 
 ### 🔹 2. Estructuras Condicionales (If / Else / Switch)
 *Toma de decisiones en base a condiciones lógicas simples y compuestas.*
-* [Guía 1 - Ejercicio 12](./UTN/Guia_1/Guia1_Eje12)
+
 * [Guía 2 - Ejercicio 3](./UTN/Guia_2/Guia2_Eje3)
 * [Guía 2 - Ejercicio 5](./UTN/Guia_2/Guia2_Eje5)
 * [Guía 2 - Ejercicio 6](./UTN/Guia_2/Guia2_Eje6)
